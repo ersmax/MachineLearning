@@ -7,6 +7,6 @@ Hence, this project aims to  predict frauds in a kaggle dataset with more than 1
 
 The team will start with the pre-processing and cleansing of the data.
 Next, every team member will adapt and tailor a specific ML algorithm to test the case of fraud or not.
-Finally, the performance of different models will be compared by means of ROC curves.
+Finally, the performance of different models will be compared by means of ROC curves, Recall, F1, target 1:500 and cost of misclassification.
 
 The dataset: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
